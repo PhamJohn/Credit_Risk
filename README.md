@@ -4,27 +4,27 @@
 This project examines the appplication of Machine Learning Algorithms to evaluate credit risk for personal loans. The results of the logistic regression, decision tree, random forest, and support vector machine algorithms are then interpreted.   
 
 ## Results 
-EasyEnsambleClassifier&nbsp; 
+EasyEnsambleClassifier: 
 ![image](https://github.com/codepast12/Credit_Risk/blob/main/Resources/EasyEnsambleClassifier.png)
 
 
-BalancedRandomForestClassifier
+BalancedRandomForestClassifier:
 ![image](https://github.com/codepast12/Credit_Risk/blob/main/Resources/BalancedRandomForestClassifier.png)
 
 
-SMOTEEN
+SMOTEEN:
 ![image](https://github.com/codepast12/Credit_Risk/blob/main/Resources/SMOTEEN.png)
 
 
-ClusterCentroids 
+ClusterCentroids: 
 ![image](https://github.com/codepast12/Credit_Risk/blob/main/Resources/ClusterCentroids.png)
 
 
-SMOTE
+SMOTE:
 ![image](https://github.com/codepast12/Credit_Risk/blob/main/Resources/SMOTE.png)
 
 
-RandomOverSampler
+RandomOverSampler:
 ![image](https://github.com/codepast12/Credit_Risk/blob/main/Resources/RandomOverSampler.png)
 
 # Summary
